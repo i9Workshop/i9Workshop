@@ -12,6 +12,6 @@
 - 🤔 I’m looking for help with HDMI communication.
 <br/>
 
-- 📫 How to reach me: i9.workroom@gmail<span>.com</span>
-- 😄 Pronouns: Explore and learn about the world.
+- 📫 How to reach me : `i9.workroom@gmail.com`
+- 😄 Pronouns : Explore and learn about the world.
 <br/>
