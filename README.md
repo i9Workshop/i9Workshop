@@ -20,8 +20,9 @@
 <br/>
 
 <br/>
+
 <br/>
 
 - 📖 Education Contents :
-  + Learn 8bits microcontroller unit programming here at [Tutorials-Microchip-XC8](https://github.com/i9Workshop/Tutorials-Microchip-XC8/tree/main/Tutorials-PIC16F).
+  + Learn 8bits microcontroller unit programming using C here at [Tutorials-Microchip-XC8](https://github.com/i9Workshop/Tutorials-Microchip-XC8/tree/main/Tutorials-PIC16F).
 <br/>
