@@ -24,5 +24,5 @@
 <br/>
 
 - 📖 Education Contents :
-  + Learn 8bit microcontroller unit programming using C language here at [Tutorials-Microchip-XC8](https://github.com/i9Workshop/Tutorials-Microchip-XC8/tree/main/Tutorials-PIC16F).
+  + Learn 8bit microcontroller unit, MCU programming using C language here at [Tutorials-Microchip-XC8](https://github.com/i9Workshop/Tutorials-Microchip-XC8/tree/main/Tutorials-PIC16F).
 <br/>
