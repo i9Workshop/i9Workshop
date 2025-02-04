@@ -7,6 +7,7 @@
 <br/>
 
 - 🔭 I’m currently working on microcontroller, electronics, softwares and Solana.
+<!-- -->
 - 👯 I’m looking to collaborate on Microcontroller and Electronics development.
 <!--- 🌱 I’m currently learning ---.-->
 - 🤔 I’m looking for help with HDMI communication.
