@@ -4,11 +4,11 @@
 ![i9_in_gear_in_chip_dark_500x500](https://github.com/user-attachments/assets/cc8bebd6-efb5-443b-a78f-8702c7745446)
 <br/><br/><br/>
 
-- 🔭 I’m currently working on microcontroller, electronics and softwares.
+- 💻 I’m currently working on microcontroller, electronics and softwares.
 <!-- -->
-- 👯 I’m looking to collaborate on <b>microcontroller</b> and <b>electronics</b> development.
+- 🔧 I’m looking to collaborate on <b>microcontroller</b> and <b>electronics</b> development.
 <!--- 🌱 I’m currently learning ---.-->
-- 🤔 I’m looking for help with HDMI communication.
+- 📺 I’m looking for help with HDMI communication.
 <br/>
 
 - 📫 How to reach me : `i9.workroom@gmail.com`
